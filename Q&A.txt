@@ -1,9 +1,0 @@
-Question regurding the RoR Blog ex:
-
-section -> 5.9 Adding links
-5.11 Adding Some Validation -> at the last part(error validation)
-
----------------------------------------
-I stoped at: 5.12 Updating Posts
-http://guides.rubyonrails.org/getting_started.html
-
